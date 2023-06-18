@@ -1,3 +1,5 @@
+// deno-lint-ignore-file no-unused-vars
+
 // toto je klasika
 function fact1(n: number) {
   let a = 1;

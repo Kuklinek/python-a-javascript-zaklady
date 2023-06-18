@@ -28,3 +28,5 @@ print(
     all(n > 10 for n in arr2)
 )
 
+arr3 = [2, 3, 4]
+print([1, *arr3, 5]) # [1, 2, 3, 4, 5]

@@ -7,6 +7,7 @@
 
 - [Umělá inteligence ChatGPT](https://chat.openai.com/)
 - [Regulární výrazy](https://regexr.com/)
+- [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/)
 
 # JS Runtimes
 
@@ -17,6 +18,7 @@
 # Obecné koncepty
 
 - [Floating point standard](https://en.wikipedia.org/wiki/IEEE_754)
+- [Cron (job scheduler)](https://en.wikipedia.org/wiki/Cron)
 
 # Úkoly
 

@@ -43,3 +43,6 @@ const _prvniLichePrvocislo = [2, 3, 5, 7].find((x) => x % 2 !== 0);
 
 const _soucetArr2 = arr2.reduce((a, b) => a + b, 0);
 const _soucinArr2 = arr2.reduce((a, b) => a * b, 1);
+
+const arr3 = [2, 3, 4];
+console.log([1, ...arr3, 5]); // [1, 2, 3, 4, 5]

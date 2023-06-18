@@ -3,6 +3,10 @@ def zdvojnasob(n):
 
 print(zdvojnasob(24))
 
+"""
+Tahle funkce okomentuje, o jaké číslo se jedná.
+popisCislo(1000) // "1000 je VELKÉ číslo!"
+"""
 def popisCislo(n):
     if n > 1_000:
         return f"{n} je VELKÉ číslo!"

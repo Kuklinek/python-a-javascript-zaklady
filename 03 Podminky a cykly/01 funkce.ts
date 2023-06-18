@@ -4,6 +4,11 @@ function zdvojnasob(n: number): number {
 
 console.log(zdvojnasob(24));
 
+/**
+ * Tahle funkce okomentuje, o jaké číslo se jedná.
+ * @example
+ * popisCislo(1000) // "1000 je VELKÉ číslo!"
+ */
 function popisCislo(n: number): string {
   if (n > 1_000) {
     return `${n} je VELKÉ číslo!`;
